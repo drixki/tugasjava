@@ -19,7 +19,7 @@ public class Printchoice {
         System.out.println("im"+""+"am");
         System.out.println("learning"+""+"Java"+"");
         System.out.println("The"+""+"Hard");
-        System.out.println("WAY!");
+        System.out.println("WESWEY!");
         System.out.println("");
 
 
